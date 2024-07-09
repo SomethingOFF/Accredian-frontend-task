@@ -1,0 +1,1 @@
+export const baseUrl = `https://accredian-backend-task-z50u.onrender.com`
